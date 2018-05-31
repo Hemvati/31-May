@@ -1,0 +1,5 @@
+r1=range(1,11)
+r1=list(range(1,11))
+print("Numbers from 1 to 10 are\n",r1)
+list.reverse(r1)
+print("Numbers from 1 to 10 in decending order are\n",r1)
